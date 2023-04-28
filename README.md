@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Website Project**
 
-- 🌱 I’m currently learning **React js and Redux**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **kunalcharde1@gmail.com**
 
