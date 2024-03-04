@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PWA REACT APP**
 
-- 🌱 I’m currently learning **Backend (next.js)**
+- 🌱 I’m currently learning **Backend (nest.js)**
 
 - 📫 How to reach me **kunalcharde1@gmail.com**
 
