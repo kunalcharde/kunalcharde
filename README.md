@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kunal Charde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalcharde&label=Profile%20views&color=0e75b6&style=flat" alt="kunalcharde" /> </p>
 
-- 🔭 I’m currently working on **Website Project**
+- 🔭 I’m currently working on **PWA REACT APP**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Backend (next.js)**
 
 - 📫 How to reach me **kunalcharde1@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
